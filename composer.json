@@ -1,0 +1,14 @@
+{
+    "name": "dziuperman/user.text.util",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dziuperman",
+            "email": "dziu1996@gmail.com"
+        }
+    ]
+}
